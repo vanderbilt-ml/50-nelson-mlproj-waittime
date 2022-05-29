@@ -1,0 +1,24 @@
+﻿Feature,Description,
+Core dictionary set:,,
+DATE,"Park Day (not actual date stamp of the wait time, since some are after midnight)",MM/DD/YYY
+DATETIME,date-time stamp of wait time,YYYY-MM-DD HH:MM:SS
+SPOSTMIN,Standby Posted Wait Time (in minutes) *,numeric
+SACTMIN,Actual Wait Time (in minutes),numeric
+,,
+,,
+,,
+,,
+,,
+There are more variables defined and included with the data (in a subdirectory of the repo) but here are some important variables:,,
+DATE,"Park Day (not actual date stamp of the wait time, since some are after midnight)",MM/DD/YYY
+WDW_TICKET_SEASON,Walt Disney World Single Day Price Type,alphanumeric
+DAYOFWEEK,Day of Week,numeric
+DAYOFYEAR,Day of Year (0 to 365),numeric
+WEEKOFYEAR,Week of Year (0 to 53),numeric
+MONTHOFYEAR,Month of Year (1 to 12),numeric
+YEAR,Year,numeric
+SEASON,"Seasonal Category (Fall, Winter, Thanksgiving, etc.)",alphanumeric
+HOLIDAYPX,Proximity to Holiday (2-directional) (in days),numeric
+HOLIDAYM,Holiday Metric (1 to 5 ranking),numeric
+HOLIDAYN,Name of Holiday,alphanumeric
+HOLIDAY,Day is a Holiday,Boolean
