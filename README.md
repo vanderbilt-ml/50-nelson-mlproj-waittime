@@ -13,3 +13,8 @@ Given the model that I intend on building for this project is a predictive model
 
 ## Appendix:
 [Source Data](https://touringplans.com/walt-disney-world/crowd-calendar)
+
+
+## Reviews:
+
+I'm wondering how can you from the source data, how big for that, and classification them.
