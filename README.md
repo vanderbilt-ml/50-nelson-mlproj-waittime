@@ -18,3 +18,6 @@ Given the model that I intend on building for this project is a predictive model
 ## Reviews:
 
 I'm wondering how can you from the source data, how big for that, and classification them.
+
+### Alex N. Response:
+The source data was luckily already collected for me and categorized nicely. The model I plan on building is not a categorization model but a predictive model that should output a scalar wait time for each time slot it is predicting. I'm not sure if that answers the question, but I believe it does. 
